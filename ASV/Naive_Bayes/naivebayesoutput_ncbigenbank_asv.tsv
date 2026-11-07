@@ -1,0 +1,681 @@
+Feature ID	Taxon	Confidence
+edd747b6f750b307f6e5ad903d2019fb	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Thelebolales	0.7996000977709313
+530b15b4b2ba6ca2a5316ac1f8f59cdf	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Pertusariales; f__Pertusariaceae; g__Pertusaria; s__flavida	0.999999362493871
+9b04db99708cb3331ea00c33105f911f	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Polyporales; f__Meripilaceae	0.9999999608982043
+ee2e148ca9cf3dc522ee5f70c5cbb86e	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Mycosphaerellales; f__Teratosphaeriaceae; g__Devriesia; s__mallochii	0.9965192476229795
+cfb0bd340e5c5688801ad2a290268a57	k__Fungi; p__Ascomycota	0.8675147692307027
+aae85e7a6d53631cb84f1718c137a7af	k__Fungi; p__Ascomycota; c__Taphrinomycetes; o__Taphrinales; f__Taphrinaceae; g__Taphrina; s__padi	0.9999328025577656
+0682ad622495d2c61ca2ecc80c578c2b	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Hymenogastraceae; g__Hebeloma; s__radicosum	0.8901885001200139
+0159105dfa5253fff22451eeafea8edd	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Thelebolales	0.861135472134861
+e9604c3fe2c08cb8bc5b8628c215ba73	k__Fungi; p__Mucoromycota; c__Mucoromycetes; o__Mucorales; f__Mucoraceae	0.9466545171063596
+bc1d1bf1b554852152ba7df3c6c36855	k__Fungi	1.0000000000000069
+9a03067244cc86d1f1748de60f11281c	k__Fungi; p__Ascomycota	0.7384832007580506
+0c4460980738d273db91ab68c711bc64	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Ostropales; f__Graphidaceae; g__Thelotrema; s__lepadinum	0.9999999984900967
+621d002848e63cfc7b1e6619a9d88a7b	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Hypotrachyna; s__sinuosa	0.9976212185223017
+39bb084889f60ca048b1ad4aaf1769f8	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Hypotrachyna; s__sinuosa	0.9931454761212943
+307e3a7e0f8e10428fb331ac8b0966a8	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Bryoria	0.9999950510881327
+ff1ab3f3768343671a77c5708f7dc4a8	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Chaetothyriales; g__Chaetothyriales; s__sp. G7.5F1a2	0.908175201839028
+3fcb64edc180fc5973ea1237877c02fe	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Leotiomycetes; f__Myxotrichaceae	0.9409900007969849
+5371b682d782359f3aa760769871f6c6	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae; g__Cladophialophora	0.9852735655738915
+0410552b3f130cfb6b4c23fa7d235c24	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Epibryaceae; g__Epibryon; s__sp.	0.8477934436643102
+aff4d2ebd7193fd3e07ce2bc2e979344	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae; g__Cladophialophora; s__nyingchiensis	0.9369254200649096
+45505351153a9140df465fe1ba2faf4a	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Usnea	0.9975025398356887
+bb964e1187677062ebd400bbf5937b12	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Amphisphaeriales; f__Hyponectriaceae; g__Physalospora; s__scirpi	0.9442868313040963
+a28cae79183a0c072cb69fdaeba4d7f2	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Amphisphaeriales; f__Hyponectriaceae; g__Physalospora; s__scirpi	0.9886720800794006
+cc4134fa04b44d2fb614dc5670947cbe	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Diatrypaceae; g__Fusiformiascus; s__favacea	0.9717219539813468
+f4c19f19883043e7660d80950fdd6e1e	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Diatrypaceae; g__Fusiformiascus; s__favacea	0.9626390852857226
+017d1407b9a60ad3ec84a71a23fd3bc3	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Microdochiaceae; g__Microdochium	0.9905698409191122
+50c1f3e553420621da075e7638749569	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Parmelia; s__saxatilis	0.7343528667040692
+4e4e520f10c4b81e4d1939d4351bac16	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Parmelia; s__sulcata	0.8906294086682098
+7e8504844e5d350ca2e02a14ff351e38	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Cladosporiales; f__Cladosporiaceae; g__Cladosporium	0.9273367709442827
+c3323fad75adcaae292030a6bc2c2d8b	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Gelatinodiscaceae; g__Ascocoryne	0.9999984205690083
+4fdd8932087793b23d594fef0a4ca61a	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Dermateaceae; g__Hysteronaevia; s__scirpina	0.9997089197986918
+37ce9edea981636f7131d38924856ff5	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Stereocaulaceae; g__Lepraria; s__incana	0.8262112193232627
+c4b571fe12c6012f58168f6b77ff9a66	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Pseudevernia; s__furfuracea	0.8649866270014454
+dbcf31b38b1d10bd76d0c214d9ce15b0	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Pseudevernia; s__furfuracea	0.8940980244350675
+7890b5a12df88ad6ed839b714fc25b36	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Hypogymnia; s__sp.	0.9991178314546286
+1b76f278770c343422d2fdcb47c3e0c3	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales	0.790376846361846
+020a24df7fb1123305664e1d73ccf373	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Usnea	0.999816335083695
+88f9445066292190e4be1293d33ea4e0	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Usnea	0.9999324232147375
+437af74ee8aebaf411fc5bcacb7733f3	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Lecanoraceae; g__Lecidella; s__sp.	0.820536291009674
+02db39c0f95a21cac1fec6bc17d4e19b	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Punctelia; s__subrudecta	0.9760042947980166
+5b1b3494d031b4a2fe2c908304a42610	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiales; g__Helotiales	0.8580640567811472
+3b9ae3a2bf2bf75f1e6cc186b55985b3	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Dothideales; f__Saccotheciaceae; g__Aureobasidium	0.9732840064035273
+6206235af1c9a957bd9c496e9b0f4547	k__Fungi; p__Ascomycota	0.9278114247152678
+9f1553193399c8534efe73f6b5d31e1e	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales	0.95191153387637
+d9caee067b36bb72d67237318d0d8ec4	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Cladoniaceae; g__Cladonia	0.999999594012201
+2fa1e4c4ea1f490008d01738bfa1a6cc	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Sclerotiniaceae; g__Botrytis	0.8421796205306479
+97c756e7cc6586ac25c4bb81b3611f0f	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales	0.9590464995791248
+742ec328e4eb531c4289195b7b908eb4	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Diaporthales; f__Gnomoniaceae; g__Ophiognomonia	0.7552303151962068
+184e1b81485ddf8ce3707fa4f4f47add	k__Fungi; p__Ascomycota	0.999999999993636
+17f13ef3d8c907449a87566209e81b53	k__Fungi; p__Ascomycota; c__Ascomycota; o__Ascomycota; f__Ascomycota; g__Ascomycota; s__sp. Di251-1	0.8146901198071049
+535c9adf0857ed451580b2626fdddad4	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiales	0.8599093855418352
+8016fbabfb7736c1f9db971534eea10d	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Mycosphaerellales; f__Mycosphaerellaceae; g__Sphaerulina	0.8611483360347397
+93830a607ff72cf8302e253e4859d309	k__Fungi; p__Ascomycota	0.8038984284178804
+2452e7961cb477c938fec35533c76bbb	k__Fungi; p__Ascomycota; c__Taphrinomycetes; o__Taphrinales; f__Taphrinaceae; g__Taphrina; s__nana	0.9047278627891076
+47e450d01e6a0390da9ca7014fc1cd55	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Rhytismatales; f__Rhytismataceae	0.9843168847309774
+84d224ed9187c7df3457f9043baba9ae	k__Fungi	0.9999999999999947
+dae045f4400bb1281407a923d99dec94	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Thelebolales; f__Pseudeurotiaceae; g__Pseudeurotiaceae; s__sp.	0.9999735360957714
+52e892ccea4d26cee80f574f3c268745	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Thelebolales; f__Pseudeurotiaceae; g__Pseudeurotiaceae; s__sp.	0.9999762427745023
+e2fccd2598b278f9e777700adcc82057	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Thelebolales; f__Pseudeurotiaceae; g__Pseudeurotiaceae; s__sp.	0.7251424175364956
+1f41534605ec7902efc12a9f84871b33	k__Fungi; p__Ascomycota	0.9480122494484589
+fb9e840546201aa12a154aefbf41eb5f	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Mollisiaceae; g__Mollisia; s__scopiformis	0.9927777990288986
+fc0eaf486824f5d8642d2dc0a1addb23	k__Fungi; p__Ascomycota; c__Dothideomycetes	0.8684226761701335
+1e39671cf7b7a37cc4fbf8a8cd0a8251	k__Fungi; p__Fungi; c__Fungi; o__Fungi; f__Fungi; g__fungal	0.9864266107281257
+223cc2ee8e16fe20162a7eaec49d8436	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Phaeomoniellales; f__Celotheliaceae; g__Celotheliaceae; s__sp.	0.8316692004906383
+f538a7550a4fcace4b61ffe23d7271ca	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Peltigerales; f__Nephromataceae; g__Nephroma; s__laevigatum	0.9793023296071387
+0c41629f97fb1fe684fad86abca0f9c0	k__Fungi; p__Ascomycota	0.9581819531224042
+3c65cda38fe080bada76734cd10a8f0b	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Auriculariales; f__Exidiaceae; g__Basidiodendron	0.9999999425262944
+696db7376b7e689e0904a3c98eb66b5e	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Sebacinales; f__Sebacinaceae; g__Sebacina; s__sp. 3 DK-2015	0.8282955554052956
+eea7c20247b1a2d33ac58148bbef9e14	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Hymenochaetales; f__Hymenochaetaceae; g__Xanthoporia; s__radiata	0.9999932082307197
+1fdbcc9ba796cd7033f9b7a753a5f5f8	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Omphalotaceae; g__Paragymnopus; s__perforans	0.9299658184437695
+857f7308f269ab7914b1d3b33a31d8ec	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Russulales; f__Stereaceae; g__Stereum	0.9535560072746029
+9f7d079582fd1f8ee9857d1137d77620	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Russulales; f__Bondarzewiaceae; g__Heterobasidion; s__sp.	0.7470189643805419
+5960d9a871f420c05cd14a9c6a0b215b	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Cryptococcaceae; g__Cryptococcus	0.7519770127324872
+9fc5c1a19f41157331c1a088559bdb3a	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Mycenaceae; g__Mycena; s__sp. 'epipterygia-CA01'	0.9351621544441279
+66ebaede4d241810ebea880b5dea784c	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Mycenaceae; g__Mycena; s__sp. 'epipterygia-CA01'	0.9395975340451533
+094be189caf2eb934a509dc35fa1e863	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Mycenaceae; g__Mycena	0.9988252381051
+487f839094915676a1d57be9e0a245f5	k__Fungi; p__Basidiomycota; c__Basidiomycota; o__Basidiomycota; f__Basidiomycota; g__Basidiomycota; s__sp. 1 BB-2010	0.8845679508453771
+d3f2e442adf79260ff9a7b7901a02357	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Cantharellales; f__Hydnaceae; g__Sistotrema; s__sernanderi	0.9990321178552369
+4ab5feebea205e46aa869b0a0d6a68f2	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Cryptococcaceae; g__Cryptococcus	0.7567239263691496
+2372e8565b90a01ead059d7e4f7d2dec	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Filobasidiales; f__Filobasidiaceae; g__Filobasidium; s__sp.	0.990921250388916
+94834e152b814c2f894e14313ee414c0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Entolomataceae; g__Entoloma; s__milthalerae	0.9900466792593736
+ade65e7bb45ab203020000cb64c5bebd	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Entolomataceae; g__Entoloma; s__conferendum	0.9927000616499738
+5a31ce967fc9ecee0b5040a08e97f6da	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Entolomataceae; g__Entoloma; s__conferendum	0.9976178245217577
+36c05af99c17b9831cc6d2246b03ac1d	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Tricholomataceae; g__Tricholoma; s__fulvum	0.8302860274079049
+7ac1f57f8626154b6cd13c40837de8af	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Polyporales; f__Polyporales; g__Neohypochnicium; s__subrigescens	0.9999879238127267
+72ee977468af6e0da795947d66ae4a3f	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Polyporales; f__Meripilaceae; g__Physisporinus; s__sp. 3 MHL-2020	0.8312870613687916
+ac9226d23d0e598dbda486588b26b377	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Psathyrellaceae; g__Coprinellus	0.9003060365755406
+5df5b2f318bb65bb2647cc9d04bdb025	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Hydnangiaceae; g__Laccaria	0.9999485491629582
+c31959cd00d7eb8623c218ab2f63bd4c	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Strophariaceae; g__Hypholoma; s__dispersum	0.985523120240417
+6002915a5e999240bfbb350b9b06e922	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Hymenogastraceae; g__Hebeloma	0.9999531296963213
+bd7bdc4a62e6978961bf97dd3e63163b	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Strophariaceae; g__Hypholoma; s__capnoides	0.9754576664511673
+cd3b52656bf001134b14af81f8a7598b	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Psathyrellaceae; g__Psathyrella; s__fibrillosa	0.9953663432713894
+09bd67a2a325925de2983446c96638eb	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Tubariaceae	0.9999995127875362
+c28175553fa097d92e64667ef44a478f	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Cortinariaceae; g__Cortinarius; s__fagetorum	0.9534404315453288
+515356fe2b0133fe8c79cfa41640e63c	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Cortinariaceae; g__Cortinarius; s__fagetorum	0.9514654854005795
+3e86ff2afccff6326679b1f439c26d75	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Hymenochaetales; f__Schizoporaceae; g__Xylodon	0.8855004891489922
+f10cbe228b626cd1a838fed5ec5aeacd	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Hymenochaetales; f__Hymenochaetales; g__Peniophorella; s__sp. XLL-2024a	0.9940195740666022
+c08e2c9e5ee7c9795cbf3fa6cc9a7030	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Mycenaceae; g__Mycena; s__mucoroides	0.9999979033630476
+e714c7fbfd0e4106cd14ba58282b2c06	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Peltigerales; f__Pannariaceae; g__Pannaria; s__conoplea	0.9935021731795756
+9614126553f98aa4f59d3ec8bba8ed11	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Peltigerales; f__Pannariaceae; g__Pannaria; s__conoplea	0.9931721439417868
+fb3067781585a5e7d129ebf115dd4b45	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Inocybaceae; g__Inocybe; s__dvaliniana	0.993126627459485
+97f7399fa429017a1bb26c7b8d789ba7	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Crepidotaceae; g__Crepidotus; s__cesatii	0.9982846765432145
+1a2d666ebe5ee41d346665fa0a15f381	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Inocybaceae; g__Inocybe; s__petiginosa	0.9976340720411808
+3c20fe8561b104f5418f07ec2e4c1b38	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Inocybaceae	0.999996904954507
+60d742f5dde2caaa3c6a07d13d4c88a3	k__Fungi; p__Basidiomycota	0.8507664833552122
+3b60b212b850315929b0fd85692d906b	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Inocybaceae; g__Inocybe; s__mixtilis	0.9992897294146532
+f939125522203fa3a7dc3cda7ec0c9e0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Inocybaceae; g__Inocybe; s__mixtilis	0.9995851171198682
+9ab5e8765183f8e24343115b9beaa1d1	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Erysiphaceae; g__Blumeria; s__dactylidis	0.9817845547685651
+59d743ea7effcdb410f3d39e58652e0b	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales	0.975076887366037
+685943b611ccc9349b44c85ac0fb9683	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Tricholomataceae; g__Tricholomataceae; s__sp.	0.7055239918199483
+e9a8eef8e9844159726d1437c2663119	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Phyllotopsidaceae; g__Pleurocybella	0.9999999977346665
+80ad149d46cd5c2cea835740c7892eca	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Atheliales; f__Atheliaceae; g__Tylospora	0.9999999997560525
+dd6d068cfd46458316198737d30bd01d	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Atheliales; f__Atheliaceae; g__Amphinema	0.9157422564310144
+e6689c440edf1c00a03abdd9ab33a9c5	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Peltigerales; f__Peltigeraceae; g__Peltigera; s__membranacea	0.9999999955940098
+faf57e0f3f429c1d7550bccb1ed392d5	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Mytilinidiales; f__Mytilinidiaceae; g__Mytilinidion; s__gemmigenum	0.9509053571884133
+bc6c0a70610cc1e33bdb3b607bc5911f	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Didymosphaeriaceae; g__Paraphaeosphaeria	0.9877956227140522
+6f911dbcc333dabb28e256be86691c53	k__Fungi	1.000000000000009
+1cafd845e3c7d4999e1e0b491ba65f09	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Phaeosphaeriaceae; g__Paraloratospora; s__gahniae	0.9998852232482126
+83f7f92cfe209b58af97c390b316b59d	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Phaeosphaeriaceae; g__Loratospora	0.9017595608427414
+a3abc4e23073e7e4d33a5332ed23dee7	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Phaeosphaeriaceae	0.752991509201793
+60009d6a126f35d8c46c862cc28b2cf0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Phaeosphaeriaceae; g__Loratospora	0.8379261858674312
+a47d66a1cd25079296bd95536e9a7c83	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Phaeosphaeriaceae; g__Loratospora	0.9199227901012328
+0e5512a8628084d35e6bf9a228faf135	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Didymellaceae	0.9294058953223749
+5e0a9b3fae8efbdf6ce7a1a2f23b0f74	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Didymellaceae	0.9148967620856758
+7e7ea45030d1281583e1e4f9a20b3116	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Didymellaceae	0.974545845927943
+661d99d7bdfce22153658c63b472506d	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales	0.9020539474768494
+09847de1c460e33f107603b2ad8f5d36	k__Fungi; p__Mucoromycota	0.8628200624079453
+88b864691a1edb7194dad06646c8b184	k__Fungi; p__Mortierellomycota; c__Mortierellomycetes; o__Mortierellales; f__Mortierellaceae; g__Mortierella	0.7950137104938562
+85cf4a43d430c1147ad90b301b85889b	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Amphisphaeriales; f__Sporocadaceae; g__Monochaetia	0.8643849141422612
+b2957a15f13adb840206e8e5b702456e	k__Fungi; p__Basidiomycota; c__Pucciniomycotina; o__Pucciniomycotina; f__Pucciniomycotina; g__urediniomycete; s__sp. BC45	0.8600839537182322
+db311b25c9bcdb899d0a91333e6d3cef	k__Fungi; p__Basidiomycota; c__Cystobasidiomycetes; o__Buckleyzymales; f__Buckleyzymaceae; g__Buckleyzyma; s__sp.	0.9081458018191971
+8cefed20c76e2c1f858b88fd9d28a0b2	k__Fungi; p__Basidiomycota; c__Cystobasidiomycetes; o__Cyphobasidiales; f__Cyphobasidiaceae; g__Cyphobasidium; s__sp. AMM-2022a	0.8002747571232349
+24387009f1e2e9df46a1e303de2985ae	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Sporidiobolales; f__Sporidiobolaceae; g__Rhodotorula	0.999999352443449
+df82603136077995f5f838b55e905fa9	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Sporidiobolales; f__Sporidiobolaceae; g__Rhodotorula	0.9999514560788266
+6ac7ac72561a88c4296ec451c8f2cf72	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Flavopunctelia; s__sp.	0.7587590498198291
+b083534d83ffa78f04ad1374021c882a	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Flavopunctelia; s__sp.	0.9360120787410431
+97e7516a43950796aa72051fc773c8fd	k__Fungi	1.0000000000000138
+1c6341e9e155cbed5db4b63ff014a2fc	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Flavopunctelia; s__sp.	0.8101452529837038
+fd77fea10509a4cabd16b46fc38dafef	k__Fungi; p__Ascomycota	0.7483280605930535
+b283c12d6fa89d5789d63d1d4c3b9184	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Flavopunctelia; s__sp.	0.8003681448030572
+8bd72afb8776e41108250f45378babf6	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Cladoniaceae; g__Cladia; s__aggregata	0.9964794861465897
+0889012ba2a6388c2949982bcfeaffc2	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Cladoniaceae; g__Cladia; s__aggregata	0.9390219985832919
+71e25774942712e40771054c2b6d01b8	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Sporidiobolales; f__Sporidiobolaceae; g__Rhodosporidiobolus; s__colostri	0.8867997791061759
+938e180eec714451834a103ffeaa48d4	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Boletales; f__Boletaceae; g__Leccinum; s__rotundifoliae	0.9852011850175435
+109cdf98e5dbdbf13aef9ceb19f335bb	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Cantharellales; f__Hydnaceae; g__Sistotrema; s__oblongisporum	0.7382824251706123
+a8d98baa06c9129371d301cd0e21d87a	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Cantharellales; f__Hydnaceae; g__Sistotrema	0.9999663189270619
+6ab9ff09fc43578f0d198ea657285cc7	k__Fungi; p__Basidiomycota; c__Pucciniomycetes; o__Pucciniales; f__Pucciniastraceae; g__Melampsoridium; s__betulinum	0.9965065169836232
+1d8b7a433cbd08a81358958b3e9a6ab1	k__Fungi; p__Basidiomycota; c__Pucciniomycetes; o__Pucciniales; f__Pucciniastraceae; g__Melampsoridium; s__betulinum	0.9959133436550884
+498c42e8e49a8008717556f39f43c37a	k__Fungi; p__Basidiomycota; c__Pucciniomycetes; o__Pucciniales; f__Pucciniaceae; g__Puccinia; s__coronata f. sp. graminicola	0.9742911966235531
+ad0a2439519cc632f18ab6f75d79e53b	k__Fungi; p__Basidiomycota; c__Pucciniomycetes; o__Pucciniales; f__Melampsoraceae; g__Melampsora	0.9999963497705553
+57df77df67b0f91392276fad2b7581fe	k__Fungi; p__Basidiomycota; c__Pucciniomycetes; o__Pucciniales; f__Melampsoraceae; g__Melampsora	0.9999991818424969
+b17d981f3470c84a230c7fcbf6f4414c	k__Fungi; p__Basidiomycota; c__Pucciniomycetes; o__Pucciniales; f__Melampsoraceae; g__Melampsora	0.9999985941111311
+a63a8a9bf62fdb92894c1c8c813f526e	k__Fungi; p__Basidiomycota; c__Pucciniomycetes; o__Pucciniales; f__Melampsoraceae; g__Melampsora	0.9999986273215674
+cbd4ec5f927f2f93609baa12c8319abb	k__Fungi; p__Ascomycota	0.9234345019253871
+1c9fcf82a9b7c3f53699143a9dd026e6	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Dothideales; f__Saccotheciaceae; g__Aureobasidium	0.9635938902563154
+f2952cf38a2acf05da5573f0ce7f8bcc	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Botryosphaeriales; f__Botryosphaeriales; g__Botryosphaeriales; s__sp.	0.9954024314847201
+a29ca6c5c60af78dde3abd5cdd971fa7	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Hymenochaetales; f__Schizoporaceae; g__Hyphodontia; s__aff. alutaria UC2023078	0.7767677779950173
+abb90ef73d2c18024a604cecc8bfb131	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Polyporales; f__Meruliaceae; g__Phlebia	0.9462257134505578
+fefa10f66cb257a5b1660b81445d6148	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Polyporales; f__Meripilaceae; g__Physisporinus; s__sp. 3 MHL-2020	0.8959264454651577
+8ea914b0f8d7b54cce3877de7745e818	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Cantharellales; f__Ceratobasidiaceae; g__Rhizoctonia; s__alpina	0.8746040397718048
+d20d28956eb50866feb6e4af21c8e812	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanoromycetidae; f__Lecanoromycetidae; g__Lecanoromycetidae; s__sp. RB-2011	0.7486664409530257
+c6a89c9d0f39384a12f9dd301ab93cb6	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Atheliales; f__Atheliaceae; g__Tylospora	0.999999999690343
+189f6e32408079a0db2952a4e3da7212	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Didymellaceae	0.9685843326600485
+5e98e10032ef5e0cb57e63e50d2e1b35	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Auriculariales; f__Auriculariales; g__Auriculariales; s__sp.	0.9752642107544062
+8e5cea3f1432c1cb338119abc104b22d	k__Fungi	1.0000000000000049
+f66cbecb73834d14fa36afd99c2a78a7	k__Fungi	1.0000000000000115
+003c2cd64cdab6a1b8adc7c282d53bdb	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Sarrameanales; f__Sarrameanaceae; g__Loxospora; s__chloropolia	0.9892768363266324
+1ff1c0ca8b7103a9e5382b05ff814005	k__Fungi; p__Ascomycota	0.7183060240352029
+4bdce86ab3dfbd99e95d206a9b2f27f8	k__Fungi	0.9999999999999972
+c3a7b65007c77770e68b124150826b6a	k__Fungi; p__Ascomycota	0.7358677703131768
+67549cb5a8f8d72b1cbff9c4b13b5bd1	k__Fungi; p__Ascomycota	0.7393137140297615
+ac8e1539ff87bb485d8f7690e167c961	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Cucurbitariaceae; g__Fenestella; s__sp.	0.9997556607703418
+565f1cc9e014db2924a1c0c25ce2e669	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Hypotrachyna	0.999999374678631
+cc1f9f92bdd521926a148fe4bb072633	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Pertusariales; f__Pertusariaceae; g__Pertusaria; s__flavida	0.999999542636109
+42a7ae841715d624def6cd8c767e2383	k__Fungi	1.0000000000000064
+8ad543b87fa561c982c28f88e84becbe	k__Fungi	1.000000000000013
+19719c6da5e9efb9eaa4063a3f4a7279	k__Fungi	0.9999999999999855
+93915bc878da2a91c72caf1b4b84551d	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Usnea	0.9977776494864472
+69ee2501e6cde132c233b856d92e9cd7	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Mollisiaceae; g__Mollisia	0.8627781174866287
+b3d2ffeb54da2e9fa94ae6544c4e6572	k__Fungi; p__Ascomycota	0.8735418144007985
+212848501db850c8b57bbeb05ff025b8	k__Fungi; p__Ascomycota	0.870014629185693
+fbf080080f6e44b94d300a167f16eb14	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Diatrypaceae; g__Fusiformiascus; s__favacea	0.9687908415115494
+8979e3eecb809a1ba4838808f94fbb87	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Microdochiaceae; g__Microdochium	0.989088718796572
+af07c2c2f8debd011eccb71bdf37aaac	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Microdochiaceae; g__Microdochium	0.992931301278525
+3238806b4b08b41a8c17e5671788fdd7	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Diatrypaceae; g__Diatrype; s__iranensis	0.7668820811055524
+4418fd73b25ec62a1331b276d3ff28de	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Parmelia; s__serrana	0.9697225597460987
+caeb01e14714b829e1334a9b67e96239	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Rhytismatales; f__Rhytismataceae; g__Lophodermium; s__seditiosum	0.999980060725116
+270e450f4dbd446e400d1b198e1adc50	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Botryosphaeriales; f__Botryosphaeriales; g__Botryosphaeriales; s__sp.	0.8580524363463615
+45aaa48bbed1f76b15f386fa17a88092	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Botryosphaeriales	0.726089984295236
+b7e3ee24b642d15bc3799b5da2b99028	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Cladosporiales; f__Cladosporiaceae; g__Cladosporium	0.9238502184822553
+c40bb198de4cb83acaaf31c6735bf442	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Cladosporiales; f__Cladosporiaceae; g__Cladosporium	0.9301470774120356
+3728c096322fe7a2231f7411db5f680c	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Hamatocanthoscyphaceae; g__Xenopolyscytalum	0.7115165393556545
+ce3723c9206a433d26d52aef7efc63c9	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Mycoblastaceae; g__Mycoblastus; s__caesius	0.9997853777036051
+3d274958cf87b1d4fc33c8021796bc13	k__Fungi; p__Ascomycota	0.8587103464216156
+8cde2ae59fe27590da5b65b81734c0f4	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Pseudevernia; s__furfuracea	0.8649862516880837
+2e9a6ba8d7825554acf60b2c3775254a	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Usnea	0.9999353869950889
+7415e966757cc2ad4849b7642a1db192	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Hypogymnia; s__sp.	0.9993295390591898
+78147916386cde8644e9c03f5d1e2ca6	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Ramalinaceae; g__Ramalina; s__sp.	0.7846731493856032
+2efc292a7f4ad85e13285887934cc048	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Usnea	0.9999850321769542
+7adc536857c38eee19086c130285a183	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Dothideales; f__Dothideales; g__Dothideales; s__sp.	0.9473628291782896
+f1691b09013cfacceeb318f8374599c0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Dothideales; f__Dothideaceae; g__Coniozyma; s__sp.	0.8684701802804426
+7d5721522538974e8f6e8dd37491b7fc	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Dothideales; f__Dothioraceae; g__Sydowia; s__sp.	0.9673089946520821
+0b221eb5269d11fa4126838974966ce1	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Mycosphaerellales; f__Teratosphaeriaceae; g__Symphoricola; s__tarnoviensis	0.9999984792943958
+425a2b2dfa2b1be1c51f0e23c430722f	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Mycosphaerellales; f__Teratosphaeriaceae; g__Symphoricola; s__tarnoviensis	0.9999984226541093
+2113d517141a80b21f8ec61cbe833b79	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Dothideales; f__Saccotheciaceae; g__Aureobasidium	0.9764814166985897
+631cb9572df77d56aa8dafb700e23f77	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Botryosphaeriales; f__Botryosphaeriales; g__Botryosphaeriales; s__sp.	0.996239357819468
+e3433738bd8e4792d4531bddf88197b3	k__Fungi; p__Ascomycota	0.9514346100142004
+91fd989dcdc60299d61a8b3f5e95065a	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Diaporthales; f__Gnomoniaceae	0.995508584366814
+628d3f431de036e358539a7f44c13186	k__Fungi; p__Ascomycota; c__Ascomycota; o__Ascomycota; f__Ascomycota; g__Ascomycota; s__sp. Di251-1	0.8196412112912818
+f6b20243b5bdbcd9e82ef70ce7c28449	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Phaeothecales; f__Phaeothecaceae	0.9611986617502626
+23bae8e66ae04d079c59a4a1e58de534	k__Fungi; p__Ascomycota	0.8048463241960802
+34317f859b9d257296705c485a89d10e	k__Fungi; p__Ascomycota; c__Taphrinomycetes; o__Taphrinales; f__Taphrinaceae; g__Taphrina; s__americana	0.7253238760459679
+b4799d1f37bb32ee6a0a5b15c849e293	k__Fungi; p__Ascomycota; c__Taphrinomycetes; o__Taphrinales; f__Taphrinaceae; g__Taphrina	0.9999428804315939
+677775c1bf5b1457c9d87d5c6fa109f8	k__Fungi; p__Ascomycota; c__Taphrinomycetes; o__Taphrinales; f__Taphrinales; g__Taphrinales; s__sp.	0.9995022990469994
+fe9aaabf4a28148d49f8f17d80138b31	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Thelebolales; f__Pseudeurotiaceae; g__Pseudeurotiaceae; s__sp.	0.7343533939777951
+5a0f7bc34956fd8d3095c94727af6137	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Thelebolales; f__Pseudeurotiaceae; g__Pseudeurotiaceae; s__sp.	0.7621319193864935
+6b589551330c6d2b4e70e5f297cc8148	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Thelebolales; f__Thelebolaceae; g__Thelebolus; s__cf. globosus	0.864216045518968
+b843f39a822f91e6ed226fc27c6751e4	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Dothideomycetes; f__Dothideomycetes; g__Peltaster; s__sp. (in: ascomycete fungi)	0.958542885761546
+fb0319e03ee241428ff99b14bae370d1	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiales; g__Helotiales; s__sp. 220 OA-2013	0.7971972520004863
+bf14b534c556145d575619ecf3e4e88e	k__Fungi	1.0000000000000053
+d0b5665553c2593f40c9eb4d4ac84860	k__Fungi; p__Ascomycota	0.8738586782435886
+6e4e5fe38f2a8fe307023f50fa5187bd	k__Fungi; p__Ascomycota	0.9850052163696342
+f667d7ef5c295bf8c310a0d09fe6298f	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Rhytismatales; f__Rhytismataceae; g__Coccomyces; s__dentatus	0.9942276305390199
+b60db36d37d44c3e20218a4501c822c6	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Botryosphaeriales; f__Botryosphaeriales; g__Botryosphaeriales; s__sp.	0.9988337088267968
+ad4d86235c44f669ad8e9d05933eb28e	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Auriculariales; f__Exidiaceae; g__Basidiodendron	0.9999999196326166
+aaa4af65b3e2682ad5fad19300d16a57	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Sirobasidiaceae; g__Sirobasidium; s__brefeldianum	0.99810312098131
+f862f74a644ab0cb7493572b3f516b00	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Polyporales; f__Hyphodermataceae; g__Hyphoderma; s__mopanshanense	0.9236892510085929
+d61d065651eb9b8562fa3a328d2e9f12	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Hymenochaetales; f__Hymenochaetaceae; g__Xanthoporia; s__radiata	0.9999966857269623
+15dd261f4b4ee679d51b938be6408a1a	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Hymenochaetales; f__Hymenochaetaceae; g__Xanthoporia; s__radiata	0.9999848726019367
+18a410c167f792733d1faeecb7dcfa40	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales	0.9779778765047614
+8d352cd80ed6d0e78348f9ac0e5220dc	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Russulales; f__Stereaceae; g__Stereum	0.9710307877991365
+d218e938bdcbb3ece4fb471bb0929d77	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Russulales; f__Bondarzewiaceae; g__Heterobasidion; s__sp.	0.7462392624526912
+7c552253316668084106ba8a569d13ea	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Mycenaceae; g__Mycena; s__sp. 'epipterygia-CA01'	0.8454411647433373
+282545b05252fa91a1128a58cb6fa4e2	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Mycenaceae; g__Mycena; s__sp. 'epipterygia-CA01'	0.942723025209959
+c57d76e8001f604abb0dd591dc490945	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Mycenaceae; g__Mycena; s__haematopus	0.9972074104011026
+ccb5595520bd8a5818d8a33d0087f828	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Mycenaceae; g__Resinomycena; s__saccharifera	0.9985660288828422
+509f3e5610d4bb19a94d42d1e4480d5e	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Sporidiobolales; f__Sporidiobolaceae; g__Rhodotorula; s__frigidialcoholis	0.8345065299954506
+9708301d3b0f398c10a6816a03971629	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Corticiales; f__Corticiaceae; g__Limonomyces; s__roseipellis	0.9828238729544045
+1552ce13ed6cd6c14f77dbc048ceee83	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Hymenochaetales; f__Schizoporaceae; g__Hyphodontia; s__aff. alutaria UC2023078	0.8009971505127436
+976b807d6e607aa74881ee708e41853c	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Cryptococcaceae; g__Cryptococcus	0.8228627277834313
+524b792c8b063e9af6b919a7ab1a8741	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Filobasidiales; f__Filobasidiaceae; g__Filobasidium; s__sp.	0.9946208048137976
+6e1ed3378ac3e018edd804163f0624b5	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Cystofilobasidiales; f__Mrakiaceae; g__Itersonilia; s__sp.	0.8835670962552332
+2b8bc1f418c29c739f8e4b4c66242b2f	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Cystofilobasidiales; f__Mrakiaceae; g__Itersonilia; s__sp.	0.9845406515784441
+1cc89d1b780c17dd3fb21daa5187e536	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Entolomataceae; g__Entoloma; s__conferendum	0.9934315772682987
+9d04c61c46740a9ae820e16f54348d33	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Entolomataceae; g__Entoloma; s__conferendum	0.9983454677823356
+bace62d73e310452051043a3fbbee23b	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Tricholomataceae; g__Tricholoma; s__fulvum	0.7997422679554225
+a96aebc50c1bbaa6ff8df45384bf9794	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Tricholomataceae; g__Tricholoma; s__fulvum	0.9267625411753324
+50d639f1e4168dc1200d4104f038e7a0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Polyporales; f__Fomitopsidaceae; g__Fomitopsis; s__betulina	0.9997043173341664
+d80666bebcb70d70dfc28e52e6c4bc5f	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Polyporales; f__Polyporales; g__Neohypochnicium; s__subrigescens	0.9999796479827087
+4685b2487b63df72e6672ab971cc4297	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Polyporales; f__Meripilaceae	0.9999999550059145
+44d0cc899a8481fef3b079bf469499e2	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Polyporales; f__Meripilaceae; g__Physisporinus; s__sp. 3 MHL-2020	0.9001852780053343
+e3bd0194769ec70e91d5b295e23c7157	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Galerinaceae; g__Galerina; s__luteolosperma	0.9616993867571734
+4a951c84e0aab4c44ef04aeb0a4373a4	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Galerinaceae; g__Galerina; s__luteolosperma	0.9591933730850036
+cef988c53df256a5f295f9bc51e2dc58	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Strophariaceae; g__Hypholoma	0.9978824860752393
+93f1455db619b13a5a9f333843789506	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Strophariaceae; g__Hypholoma	0.9993648836873436
+66f67fbce983d84f51a11683560b322b	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Strophariaceae; g__Hypholoma; s__capnoides	0.9657450888495843
+9827546c3397d11313b65aeaeb11391c	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Psathyrellaceae; g__Psathyrella; s__kitsiana	0.9906058031601501
+df51f5d4f224870fb2e367b9f01eea25	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Cortinariaceae; g__Cortinarius; s__fagetorum	0.9550289290944888
+efa743ed1c1dab2055252de8e5a55e37	k__Fungi; p__Basidiomycota; c__Exobasidiomycetes; o__Exobasidiales; f__Exobasidiaceae; g__Exobasidium; s__maculosum	0.9951614607669876
+b981724f921071c049c039d8e7a51994	k__Fungi; p__Basidiomycota; c__Exobasidiomycetes; o__Exobasidiales; f__Exobasidiaceae; g__Exobasidium; s__maculosum	0.9930901137652086
+1c439d964b8971fd03cf7960386509c5	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Cantharellales; f__Ceratobasidiaceae; g__Rhizoctonia; s__alpina	0.798264791562238
+a9c8aa4c27cb35cb8f68413af964a03a	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Typhulaceae; g__Typhula; s__sp. 2 TKPB-2017	0.8960807643952834
+73b1fdb12fec730225522bc2c891447d	k__Fungi; p__Ascomycota	0.9999845511049628
+2cd0d10de037789995545a4b33176129	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Phaeotremellaceae; g__Phaeotremellaceae; s__sp.	0.7265124505690205
+ff43fceda48bfd455acc33329a310c74	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Inocybaceae; g__Inocybe; s__petiginosa	0.9990151447998522
+6c2ff23d340d737c9d5b48e54f26a6cf	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Crepidotaceae; g__Crepidotus; s__stratosus	0.9042699742481942
+d3ed36b999380cb71083339fbc1b389f	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Cortinariaceae; g__Cortinarius	0.9985168483364333
+d2bed42c0dc11542f7411fc1ca00aa55	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Inocybaceae; g__Inocybe; s__pseudoumbrina	0.9135238832041306
+6cda7cb14b9a77e83cd353dcbc312140	k__Fungi; p__Ascomycota	0.9000472420972462
+add560dbdf1419b434eb6bde090003c6	k__Fungi; p__Ascomycota	0.9274453597017873
+5d8d8985d2f0679ddb9b8f51b12343ac	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Erysiphaceae; g__Blumeria; s__dactylidis	0.9858848775705814
+7b3f31d254ec5ed8b38a2707dffcfb03	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Erysiphaceae; g__Blumeria; s__dactylidis	0.967955856052944
+5042c7069adbaa53d54aed5107b6e4f3	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Erysiphaceae; g__Erysiphe	0.9724525635811547
+8d512bd4cb912bc3fdb98373677890d8	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales	0.9808589980654601
+94d12f1b3c52b1804d916b8e7b76fd1e	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Phyllotopsidaceae; g__Macrotyphula; s__fistulosa	0.8621949711938852
+b015de750f3d90fa05bd66778642805b	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Atheliales; f__Atheliaceae; g__Tylospora; s__fibrillosa	0.7491561032616316
+8745bbf2794dc48a11691f3eb92e071d	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Atheliales; f__Atheliaceae; g__Piloderma; s__sp. YM893	0.7803882807909401
+446c12a87cefa7315fe02171a279fe04	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Atheliales; f__Atheliaceae; g__Amphinema	0.8451496983859147
+0d126bd962c347e739f2a9d2b530b105	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Atheliales; f__Atheliaceae; g__Amphinema	0.9202771639598665
+3567216ef55a5645198f7cab16d3ca0c	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Didymosphaeriaceae; g__Paraphaeosphaeria	0.9945994859133458
+1693f9c59d6f823b6c35cdea6d83215d	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Phaeosphaeriaceae; g__Loratospora	0.8399209592635214
+6da70a12b3b472f08bf154873f7a35ad	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Phaeosphaeriaceae; g__Loratospora	0.9209783916319907
+67e7e94550f10a3691c271e8616d6824	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Phaeosphaeriaceae; g__Loratospora	0.9712983180637941
+144a3e49799e0d2d2c8c34bda2732007	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Didymellaceae	0.9278724293557892
+9bbc45f23de31a91ce5d87bcd34baf1e	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Phaeosphaeriaceae; g__Phaeosphaeria; s__juncina	0.9954245915517457
+0bb0c5f54154c30a25cd1b7e63e48f89	k__Fungi; p__Ascomycota; c__Ascomycota; o__Ascomycota; f__Ascomycota; g__ascomycete	0.7154546706543466
+e696ce10159af6fce904e7c4922f7c9d	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales	0.9113982655549977
+7d7c50dbe2daf94f0280ec00df1172c3	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales	0.9336637866002298
+85a631a7b9611c17f8f15f324eedb783	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Teichosporaceae; g__Teichospora; s__quercus	0.8438450630393161
+237f609ff40309514a394e6402b779dd	k__Fungi; p__Mucoromycota	0.8488931979097861
+b3c7435eaea48ae5bc1a668ab3126eb5	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Botryosphaeriales	0.7508446396620861
+9485a216c5db836c8588a3f4922c2edc	k__Fungi	1.000000000000012
+4859eeacbe61f503d3f677eb933fb504	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Auriculariales; f__Auriculariales; g__Auriculariales; s__sp.	0.9983729419164618
+feec5eaef39d26aa6c714b2097e899d9	k__Fungi; p__Ascomycota; c__Saccharomycetes; o__Saccharomycetales	0.7004701896694796
+a909a331e7d685b11383341f85bdfb06	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Flavopunctelia; s__sp.	0.8207781876705234
+00bc31a4e06b8e59a95af272d0dcf6ef	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Flavopunctelia; s__sp.	0.8578347146888909
+f9323c5e8a7119c2748523a8e3043ac5	k__Fungi	0.9999999999999937
+55762b126de87439c9a5706be98192ce	k__Fungi; p__Ascomycota	0.8478192292500932
+5a6a0f4db88ea726ac2c5e4f3ad236b2	k__Fungi; p__Ascomycota	0.736611955356915
+87dbd315dce7f6a525d6c3f11d6dc139	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Flavopunctelia; s__sp.	0.999999974219094
+9d0ac0ba8202c5701c5eedd0fb40aaab	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Flavopunctelia; s__sp.	0.9999999999769784
+cd985ac23378ee4f84355bbb6636d955	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Russulales; f__Lachnocladiaceae; g__Vararia; s__gallica	0.9999986285790807
+c71ff52345daa2cf3252615d06da4fda	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Microbotryomycetes; f__Microbotryomycetes; g__Curvibasidium	0.9951361919462981
+47dbc5ce2c20558fbd1d9b3dcbdd7b63	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Boletales; f__Boletaceae; g__Leccinum; s__rotundifoliae	0.9874139020392735
+9480013eaf4c9148c64ccb66f603cb00	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Cantharellales; f__Hydnaceae; g__Sistotrema	0.9999663185787965
+8e80fc29bedc7eef6d9aeb78ee7ebb7c	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Clavariaceae	0.9994728283165845
+eca4482a8eef110b966e248f7d509a3f	k__Fungi; p__Basidiomycota; c__Pucciniomycetes; o__Pucciniales; f__Pucciniastraceae; g__Melampsoridium; s__betulinum	0.9965065243994804
+2c046e9e22d5b46256ee979a58fb929f	k__Fungi; p__Basidiomycota; c__Pucciniomycetes; o__Pucciniales; f__Pucciniastraceae; g__Melampsoridium; s__hiratsukanum	0.8810854976302538
+931c9bd3aebe9f8949a6cc967a9dd055	k__Fungi; p__Basidiomycota; c__Pucciniomycetes; o__Pucciniales; f__Pucciniaceae; g__Puccinia; s__coronata f. sp. graminicola	0.9619398564526631
+c7b26594dd45ac49884596f989487904	k__Fungi; p__Basidiomycota; c__Pucciniomycetes; o__Pucciniales; f__Pucciniaceae; g__Puccinia; s__coronati-agrostidis	0.9999996178919038
+83b22de17c749a230779bbcae306e9ab	k__Fungi; p__Basidiomycota; c__Pucciniomycetes; o__Pucciniales; f__Pucciniaceae; g__Puccinia	0.9999997602433378
+b7405551078149bb10cf3249ba56f215	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Caliciales; f__Physciaceae; g__Physcia	0.9999279121570415
+6708d218fd3bfddebc67d2ba3fa16cd0	k__Fungi; p__Ascomycota	0.9384184399860349
+a5e8ebcc89177eb1229f91eada3f741f	k__Fungi	1.0000000000000027
+4afe4c0084857cb19d28c0db1ceac35e	k__Fungi; p__Basidiomycota; c__Pucciniomycetes; o__Pucciniales; f__Pucciniastraceae; g__Melampsoridium; s__betulinum	0.9971448227478277
+16cd11ff25be7df3bfc1e731e6a87e71	k__Fungi	1.000000000000013
+3c1448d89fe1de626eb2bbf1443c3cc1	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Sarrameanales; f__Sarrameanaceae; g__Loxospora; s__chloropolia	0.9919051084219699
+d057b52b86b6e3f8f82d471f741d0258	k__Fungi	0.9999999999999941
+29d8372880d8a03e2cacad026d43704a	k__Fungi; p__Ascomycota	0.7382859996896918
+8d71f12c381f86f9c2fa1766f9b12b33	k__Fungi; p__Ascomycota	0.7403618495216795
+9cb87c2546cc4a3aabd842737375d1c1	k__Fungi; p__Basidiomycota; c__Malasseziomycetes; o__Malasseziales; f__Malasseziaceae; g__Malassezia; s__restricta	0.9988422702254368
+371741747391ce2ce28db1fcdb769a7a	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Lecanoraceae; g__Scoliciosporum; s__schadeanum	0.9561994340974207
+95daa44116ea090090e652d0522fa876	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Ostropales; f__Graphidaceae; g__Thelotrema; s__lepadinum	0.9999999990908748
+630987d50069120f6900e87fe0818adb	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Cucurbitariaceae; g__Fenestella; s__sp.	0.9993112193062914
+0487fda1e472ecec8eec3d17581368af	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Massarinaceae; g__Stagonospora; s__bicolor	0.7936153041078946
+70d833d91e0332861283520142e442db	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Hypotrachyna; s__afrorevoluta	0.9899265271704291
+9682af35b215523e52784140f60a067b	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Hypotrachyna; s__sinuosa	0.9968997642459327
+b0cd0418624ae99b4573f880d12b9a0a	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Bryoria	0.9999942990643411
+fe35dff157d2f4a42e1caab150b3f938	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Hypotrachyna; s__laevigata	0.9997105093646814
+e4b6c474661c520efabf8289500f7cfb	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Cetrelia; s__monachorum	0.9999575914365891
+08a63be687358e9c87120277b429b37c	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Physalacriaceae; g__Armillaria	0.9999999989245235
+86d4e4967a5e5e97b12b2d4438e9f3ac	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae	0.9625945120734192
+856170d07726eaf030ea0b879a6356f0	k__Fungi; p__Ascomycota; c__Pichiomycetes; o__Serinales; f__Debaryomycetaceae; g__Dujonia; s__zeylanoides	0.9213303047136756
+5289c725a7cc3a767e4618b8266d14e2	k__Fungi; p__Ascomycota; c__Pichiomycetes; o__Serinales; f__Debaryomycetaceae; g__Debaryomyces	0.9773886781769962
+6f6f4173cea466ec876889a20939aca9	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae; g__Cladophialophora; s__nyingchiensis	0.8443742882121259
+8240485216a33a0486157b3973207b0f	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales	0.7947864984069015
+6d05700b660d224e8f32d63047b7d103	k__Fungi; p__Basidiomycota	0.8583369566543988
+c105b022b001f970ed67a5e6e0955e24	k__Fungi; p__Fungi; c__Fungi; o__Fungi; f__Fungi; g__fungal; s__sp. D2-2	0.9764210501180733
+16adac81427a4f8f326215231b3dc8d0	k__Fungi	1.0000000000000124
+e96538140afd723b2ebe131b6cdf4bbe	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Micareaceae; g__Micarea; s__herbarum	0.9919436593639325
+595adb677634fd801b893f0d81fbe17e	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Micareaceae; g__Micarea; s__byssacea	0.9999999831076708
+4d6ec3db9022ed88ca16308945e1425b	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Amphisphaeriales; f__Hyponectriaceae; g__Physalospora; s__scirpi	0.8771233361852812
+320e11aaecd6ea56a7cdf0e37be58fed	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Amphisphaeriales; f__Hyponectriaceae; g__Physalospora; s__scirpi	0.9239502774792845
+f360c3411a630c3cfb1f9ae39cedaaa3	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Diatrypaceae; g__Fusiformiascus; s__favacea	0.9722528945425775
+6c89441eb772f9409fb49fb1b3c47192	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Diatrypaceae; g__Fusiformiascus; s__favacea	0.9621063291568768
+f9cf54499fa2d12c5677ad91c4714297	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Microdochiaceae; g__Microdochium	0.9914946942620353
+e5598ba365ab3c368cbb6d7959bcaa97	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Microdochiaceae; g__Microdochium	0.9926252248879022
+96dd708ae5886473500bea0d91c0830b	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Xylariaceae; g__Xylaria; s__sp. 'CA05'	0.7450888970667289
+9dae96541f9dac024573c0b3806965c8	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Xylariaceae; g__Xylaria	0.9175184308888336
+34479ac4b6aed234eaeda1d85e3e7413	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Amphisphaeriales	0.9997269932236515
+c1da4841c9061a6a2c4342e7a50e2828	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Parmelia	0.9999957611355361
+e98b4a8a422c8d0581037facb62cb6a8	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Parmelia; s__saxatilis	0.8486566949428618
+551a16bca8ca441e56788dea3c51477a	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Rhytismatales; f__Rhytismataceae; g__Lophodermium; s__seditiosum	0.999992193479517
+004bb592226aee98f6837648ccc8e96c	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Parmelia; s__sulcata	0.9144984910588619
+79c1d5cd86bc949dd1923de56d5348e0	k__Fungi; p__Ascomycota; c__Dothideomycetes	0.7085897026042604
+f28ce7b05bf425583e0eb49500ff4a3d	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Cladosporiales; f__Cladosporiaceae; g__Cladosporium	0.9364190750184196
+bd1380983bdc18bac466c0feded04fcf	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Cladosporiales; f__Cladosporiaceae; g__Cladosporium	0.9334803041465711
+d410178b99feeed18127163ff3d2cbad	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Cladosporiales; f__Cladosporiaceae; g__Cladosporium	0.9285847667761824
+4636679590fb2be6b097bb6dd008bba6	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Mycosphaerellales; f__Mycosphaerellaceae	0.9961929596122677
+550e58f57a07231c269f1e62bff46ec9	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Stereocaulaceae; g__Lepraria; s__incana	0.8252868134667949
+bbb1adfddb1ad60fd5bda04e9e1583d7	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Stereocaulaceae; g__Lepraria; s__sylvicola	0.996579313971143
+c8b703f71007aca3e7eff078826e4897	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Ramalinaceae; g__Bacidina; s__arnoldiana	0.9209156247139435
+4a63da92caa2891deb02a433ad9141f5	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Pseudevernia; s__furfuracea	0.9204480910850559
+6ec6f5ff61e18b00b82acc1c5f91fea3	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Pseudevernia; s__furfuracea	0.9820620372017957
+fc83d7512e93421fe2579d584e4a6d09	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Pseudevernia; s__furfuracea	0.9384519459772724
+d4b3557a92444d9cb21498c24ed318cd	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Usnea	0.999875204917966
+8320a2ca3c1996c9e595996d6f15bd09	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Usnea	0.9998262493714304
+2a5d650ff16de9b2963937d344445ac1	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Usnea	0.9998832896770375
+4a0ea93d1dacf8b663dfe9dbd357a8d7	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Ramalinaceae; g__Ramalina; s__farinacea	0.8510967451524046
+f7401f394795998b9b9d65a6172e01e3	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Ramalinaceae; g__Ramalina; s__sp.	0.736427091896276
+228761fc6f748ddd43cff174f87149e8	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Usnea	0.999984697342446
+3a99052b080e68240fdbf0cd1eab51e7	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Usnea	0.9999942091538467
+14cf08a1d7c52849444bf224472fa5d9	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Usnea	0.99987805242409
+b7820c93640b823d4fda848583134e93	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Evernia; s__sp.	0.7071261356391851
+af433fc81e3081009c993f497d4dcd81	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Lecanoraceae; g__Scoliciosporum; s__umbrinum	0.9824589313522956
+e6485a6babc9128f99f7ce70d1e69aa3	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales	0.7782028386600374
+00e185b759d6b8775fe38fd3da699b65	k__Fungi; p__Ascomycota; c__Lecanoromycetes	0.7286790580060842
+fbda04d25ae4a064f37c14202aae243f	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiales; g__Helotiales	0.9366910471212108
+8fd34fcacc5193a6f5bc8d10f0ece60f	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Dothideales; f__Dothideales; g__Dothideales; s__sp.	0.9282071111323714
+d8998e37ea2f37d60a96e88e71034769	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Dothideales; f__Dothideaceae; g__Dothidea; s__sp.	0.9926450478310018
+181e736a736e556d307fbdb1446b8982	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Mycosphaerellales; f__Teratosphaeriaceae; g__Symphoricola; s__tarnoviensis	0.9999987624907744
+ad1502c86237ca07d6ece5fa166c7ae2	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Dothideales; f__Saccotheciaceae; g__Aureobasidium	0.9798463189496106
+a1f108773cf1af179466134dfc2671ea	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Dothideales; f__Saccotheciaceae; g__Aureobasidium	0.9869566789291151
+6a54a40e37d945d41fb16f8499943643	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Dothideales; f__Saccotheciaceae; g__Aureobasidium	0.990842860640027
+eba32806a637bdd3325be2a4b74b5981	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecideales; f__Lecideaceae; g__Porpidia; s__tuberculosa	0.970951425838282
+be361e1aec18f4ff41f5ed6c1cb2af38	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Lachnaceae; g__Incrucipulum; s__ciliare	0.9993621540020907
+bef6a4ba6a28a368f19f74e6cbd64271	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Dermateaceae; g__Neofabraea; s__actinidiae	0.9393208454573353
+230fb8c2186d80d237e068806c3bb977	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Myriangiales; f__Endosporiaceae; g__Endosporium; s__sp.	0.9999919452905135
+14fbc771761bdc8677ce79a172494beb	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Cladoniaceae; g__Cladonia	0.9999995621163095
+2eac81f30ae39e66e65ee80fc5f7cd5c	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Lachnaceae; g__Lachnellula; s__calyciformis	0.9660208722373732
+b577089a32e8e1cf11d8dffbcc356082	k__Fungi; p__Ascomycota; c__Leotiomycetes	0.9994961255185322
+c796b3392b98694281bd61c32c4c535f	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Pezizellaceae; g__Calycellina; s__lachnobrachya	0.9774993266495681
+e3b621e8e27d732e1a972b8750af4757	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Sclerotiniaceae; g__Botrytis	0.8604797864679863
+51a3f74ba084fb1c74002186e029786e	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Sclerotiniaceae; g__Botrytis	0.8833514594932423
+80a699f8d7c61f48b3e3e465896c2fce	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Rutstroemiaceae; g__Rutstroemia; s__sydowiana	0.9357373399280732
+d6e6bcbb43d3dcce4a211188503d1fe5	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales	0.7649335822648904
+822971be8750c056f8284a6f19b31b92	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Diaporthales; f__Gnomoniaceae; g__Ophiognomonia	0.8217014051007707
+aa66516bacc03e13a0fdf26f973d79d1	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiales; g__Helotiales; s__PB-2023	0.7633851167945545
+e605638b12c6e968d56b3aa6b2b24d10	k__Fungi	0.9999999999999953
+b2b9fb4361c37f14ba89e1f5f5107318	k__Fungi	1.0000000000000078
+459c9d358a531cce0a7a89dfd774ed22	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Mycosphaerellales; f__Mycosphaerellaceae; g__Sphaerulina	0.8924497234203171
+910d60b6a1af8ea96781a9e23e081e67	k__Fungi; p__Ascomycota; c__Taphrinomycetes; o__Taphrinales; f__Taphrinaceae; g__Taphrina; s__nana	0.8914704233224091
+55d588bb19d4d7dd1d01eb7bf1ccbe4c	k__Fungi; p__Ascomycota; c__Taphrinomycetes; o__Taphrinales; f__Taphrinaceae; g__Taphrina; s__padi	0.9999363222521765
+947e1eca70201766343f63027a6544ea	k__Fungi; p__Ascomycota; c__Taphrinomycetes; o__Taphrinales; f__Taphrinaceae; g__Taphrina; s__americana	0.7331266373172178
+e834a9ba28a5ce849030e004f0fbfdad	k__Fungi; p__Ascomycota; c__Taphrinomycetes; o__Taphrinales; f__Taphrinaceae; g__Taphrina	0.999954775286917
+f4e5f4c398c315835634eedab4beeacc	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Thelebolales; f__Pseudeurotiaceae; g__Pseudeurotiaceae; s__sp.	0.7758409096895956
+2998f31c43a14147aecb11bf0b5d2719	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Thelebolales; f__Pseudeurotiaceae; g__Geomyces; s__sp. TC3-010	0.8952339565715539
+2f4d1abdd3284db7ef7d3389c3d9ec55	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Thelebolales	0.8156158946635607
+a49fd1ce05cd7a65848d9123fbefd17d	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Thelebolales; f__Pseudeurotiaceae; g__Pseudeurotiaceae; s__sp.	0.9999821140897441
+25253f73db79de38c0dd7cb047e926a6	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Thelebolales; f__Pseudeurotiaceae; g__Pseudeurotiaceae; s__sp.	0.7572787988202063
+f91e4327c6407755b59361c9eb74a8e4	k__Fungi; p__Ascomycota; c__Leotiomycetes	0.7537862288747514
+ee220ae09e6290d603acc75077629ecf	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Thelebolales; f__Thelebolaceae; g__Thelebolus	0.968935273621151
+dcfc6b11cccfe0e0fd2ffe196c602bdb	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Mycosphaerellales; f__Teratosphaeriaceae; g__Teratosphaeria; s__mexicana	0.9997986947340705
+18d7b9d91b28fa6b280763d3c84a1831	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Phaeomoniellales; f__Phaeomoniellaceae	0.746069477251235
+5cdeda36569085e27352247785766fa0	k__Fungi; p__Ascomycota	0.9104080126719238
+b728d5f119e8c03a6021e954792cd253	k__Fungi; p__Ascomycota; c__Pezizomycotina; o__Pezizomycotina; f__Pezizomycotina; g__Hymenella; s__cerealis	0.8628942633084234
+390ad609712d5f14e7dfefa8a655200d	k__Fungi; p__Ascomycota; c__Pezizomycotina; o__Pezizomycotina; f__Pezizomycotina; g__Hymenella; s__cerealis	0.8737605065700288
+50c728d05f102b7825d262e4b920aea6	k__Fungi; p__Fungi; c__Fungi; o__Fungi; f__Fungi; g__fungal	0.9299958458437861
+036d4d467d36c17e135b5aab21a9b93a	k__Fungi; p__Ascomycota	0.9770963681995626
+21b51312075673b5fb5f3b0ce40987fe	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Phaeomoniellales; f__Celotheliaceae; g__Celotheliaceae; s__sp.	0.8024201853260193
+8e22d11886193c33cedbba24fdcae5cf	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Peltigerales; f__Nephromataceae; g__Nephroma; s__laevigatum	0.9873243199595556
+0b332ad9d642253ca8dce359991779cc	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Peltigerales; f__Nephromataceae; g__Nephroma; s__laevigatum	0.9867521829156282
+4309a3c6269437273b04f975eb0e5997	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Auriculariales; f__Exidiaceae; g__Basidiodendron	0.999999912469899
+06af98a5e4c1509816a2f455e8bbbdd9	k__Fungi	0.999999999999988
+6cc822763128f8d2291279c6e5f3032a	k__Fungi; p__Basidiomycota; c__Atractiellomycetes; o__Atractiellales; f__Phleogenaceae; g__Bourdotigloea; s__vestita	0.9997164822796002
+8102a9ff9565f7da41297161ff4781f4	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales	0.8552574028204764
+e2086639b8b773204df83574e507c032	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Hymenochaetales; f__Hymenochaetaceae; g__Xanthoporia; s__radiata	0.9999881659885743
+147b0fd2a7fbc94b388401ce0848982e	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Hymenochaetales; f__Hymenochaetaceae; g__Xanthoporia; s__radiata	0.999988777979424
+d5bf57e8ddeba1651f454353d123a7ce	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Russulales; f__Stereaceae; g__Stereum; s__rugosum	0.7740427357735293
+dc11a7e2ede0613370aab5fcde901dc3	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Bulleribasidiaceae; g__Dioszegia; s__sp.	0.963398535616727
+6f68ea0c04fbd019dc1be4b4a62e9f7e	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Bulleribasidiaceae; g__Vishniacozyma; s__foliicola	0.9948316067022626
+d3fc5f7ccae3dc2ffdc6406a041b9df1	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Cryptococcaceae; g__Cryptococcus	0.7168990824411702
+88dd818961bc7e6b6600a98f192bc6a3	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Mycenaceae; g__Mycena; s__sp. 'epipterygia-CA01'	0.888654295305272
+69d3099f0deb3651ff93c9386899f9ab	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Mycenaceae; g__Mycena; s__sp. 'epipterygia-CA01'	0.9428969300982458
+20503fa0a44cb94036914dcbfeadc997	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Mycenaceae; g__Mycena; s__sp. 'epipterygia-CA01'	0.9303125010847448
+de6f9b646ff1316838b62694bcaa0812	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Mycenaceae; g__Mycena; s__sp. 'epipterygia-CA01'	0.8267257081277821
+2c6fbfe3d2f27227a31ee2131d5cb52e	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Mycenaceae; g__Mycena; s__sp. 'epipterygia-CA01'	0.9394406807129926
+559c798319fd2164ac99aae22e7084e3	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Mycenaceae; g__Mycena; s__haematopus	0.9968049826172987
+a293f8ca06afc86f6926aa471ad12b37	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Mycenaceae; g__Mycena; s__haematopus	0.990573547417793
+b2cab52033d6ad3c085d4bd6477c43b3	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Mycenaceae; g__Mycena; s__olivaceoflava	0.720715422190947
+f9b226ba3728714e753a8252f292eb45	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Mycenaceae; g__Mycena; s__metata	0.9602677190475728
+941393cfd71edfb6b8ba8b3d5578d5fd	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Mycenaceae; g__Mycena; s__metata	0.9046857354241684
+fff16fda58bb931135c9b6a590b4a37f	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Mycenaceae; g__Mycena; s__filopes	0.9640765972026581
+05b986dbbe4da55fe3ee9fb39a8633af	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Mycenaceae; g__Resinomycena; s__saccharifera	0.9960397239834904
+0fcfbe7f0ef3643b7b6f9c58580fdad4	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Tremellaceae; g__Tremella; s__globispora	0.9999999905741817
+ef6f9d528b307ab409890ec232ba022f	k__Fungi; p__Basidiomycota; c__Exobasidiomycetes; o__Microstromatales; f__Microstromataceae; g__Microstroma; s__sp.	0.8752680399619852
+212ae935a104b6f306af9a387456eeb9	k__Fungi; p__Basidiomycota; c__Exobasidiomycetes; o__Microstromatales; f__Microstromataceae; g__Microstroma; s__sp.	0.8528155059546941
+75857553309c2b5ef89cbb57f77e3608	k__Fungi; p__Basidiomycota; c__Exobasidiomycetes; o__Microstromatales; f__Microstromataceae; g__Microstroma; s__sp.	0.9099480610713324
+3d223c7730fc5b234b98873922bf52f1	k__Fungi; p__Basidiomycota; c__Tremellomycetes	0.9979548971050713
+b4888107bdd22276ea7fff5aaaefa8b0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Cystofilobasidiales; f__Mrakiaceae; g__Itersonilia	0.9999871230853217
+8f490e29729af5c4a748081a63797a6b	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Entolomataceae; g__Entoloma; s__conferendum	0.994108122581284
+eebb52c99459875b68d0c8227236a0a3	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Entolomataceae; g__Entoloma; s__conferendum	0.9985177971471789
+0a7feec1769f99ee2b7811568ac93dc3	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Entolomataceae; g__Entoloma; s__cetratum	0.9867737624764243
+fa3efd5f6ffc90b6278812a1452825ba	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Sistotremastrales; f__Sistotremastraceae; g__Sertulicium; s__sp. T81091-1	0.8089640474433398
+bbdd50b1a6ac50c36d80449f7b433c29	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Sistotremastrales; f__Sistotremastraceae; g__Sertulicium; s__sp. T81091-1	0.8080758202932949
+a92d38404c6c5c9d2ee364ff81ae850c	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Polyporales; f__Fomitopsidaceae; g__Fomitopsis; s__betulina	0.9999100561877404
+b56b3b98d94a3a4863ccabc4cdf5c599	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Polyporales; f__Polyporales; g__Neohypochnicium; s__subrigescens	0.9999881151652205
+56634a1c7c405f45ff87c63ef84870a1	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Polyporales; f__Meripilaceae; g__Meripilus; s__undatus	0.7208337253278201
+4237e8d7f439db530c9b488af0fdf3f6	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Polyporales; f__Meripilaceae; g__Physisporinus; s__sp. SM13-10-3-2	0.9714151803845417
+645a003bec22522a51d1cab0b8b9c204	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Polyporales; f__Meripilaceae; g__Physisporinus; s__sp. SM13-10-3-2	0.9415555055768334
+a5d5f7270d5617b60ca15bf558acaf19	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Polyporales; f__Meripilaceae; g__Physisporinus; s__sp. 3 MHL-2020	0.8965483942274061
+c40ee2a81b363084838b9bc9747248cf	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Polyporales; f__Meripilaceae; g__Physisporinus; s__sp. 3 MHL-2020	0.9272873723930872
+df9c6bcb3fec0b75e674ceaee8264f13	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Galerinaceae; g__Galerina; s__luteolosperma	0.9528687530438
+344397ff4478d68e969e4fb18fa2e447	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Galerinaceae; g__Galerina; s__hybrida	0.9998358658210652
+c05cb96b2b5495951e7e978f4f9e6c27	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Strophariaceae; g__Hypholoma; s__dispersum	0.9896972295743781
+03f85ddc6689bb28ffb5aec6123c3982	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Hymenogastraceae; g__Hebeloma; s__radicosum	0.9289959526547261
+d9c1cfede902fa0f71f3390bd84641a9	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Strophariaceae; g__Hypholoma; s__capnoides	0.9806917471361613
+3fc85976d61f69691d1fe2597a1c058c	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Psathyrellaceae; g__Psathyrella; s__fibrillosa	0.9952617930502599
+6c1c737dadb8d333d2b7c7d3900c3b90	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Tubariaceae; g__Flammulaster; s__ferrugineus	0.7016958883493869
+c3630b314dd2495a777d28a750a0d2bb	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Bolbitiaceae; g__Conocybe; s__cylindracea	0.8938485613147726
+8a30c4f7b30c915bf67024437fbed89d	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Cortinariaceae; g__Cortinarius	0.9999340859197239
+20b1c37f567802b7783632d21206d541	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Cortinariaceae; g__Cortinarius; s__mammillatus	0.9462866689238748
+7658499488b88d0b776bb1799fb8234b	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Cortinariaceae; g__Cortinarius; s__fagetorum	0.9585139033378245
+7ab8920488ba20994bafd38ca19ec75d	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Polyporales; f__Steccherinaceae; g__Steccherinum; s__nitidum	0.9880650332497232
+42ff58962d0e14e5a44176d41a95104f	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Cantharellales; f__Ceratobasidiaceae; g__Rhizoctonia; s__alpina	0.8005082908240957
+5430678fedfecc9c27c902835a513a95	k__Fungi; p__Basidiomycota; c__Exobasidiomycetes; o__Exobasidiales; f__Exobasidiaceae; g__Exobasidium; s__ledi	0.9999613513293318
+1724907b6d176aa0afe799d700bbb385	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Cantharellales; f__Hydnaceae; g__Hydnum; s__sp. LM1961	0.9560401355034647
+199462d02598acaa31fdf24753eba6d6	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Mycenaceae; g__Mycena; s__mucoroides	0.9999986161324071
+842f3a157728dad413a5ec2838c245e5	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Sclerococcales; f__Sclerococcales; g__Sclerococcales; s__sp.	0.9999994336912903
+344558a92578d162b65d881698654032	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Inocybaceae; g__Inocybe	0.9999988372449238
+dba7bb4b6dfdceb426fff6745cb61a1d	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Inocybaceae; g__Inocybe; s__cf. xanthomelas PAM06060405	0.9525746739796286
+db9127f7e16cf123e5b814622bfb3f61	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Inocybaceae; g__Inocybe; s__petiginosa	0.9866500773305527
+12ff9a8b98eca98b62e77cd354aa3173	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Crepidotaceae; g__Crepidotus; s__stratosus	0.8874137180148434
+4e015e37b2752ff029064c2a423aef42	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Crepidotaceae; g__Crepidotus	0.9999999527765584
+41f45e3792bcfc89205c10f2aaaaf420	k__Fungi	0.9999999999999883
+677f58e7457cd110531d0c0c6fbfbf59	k__Fungi	0.9999999999999876
+2377d1502b65396bb1132e78e7f0f729	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Caliciales; f__Physciaceae; g__Physcia	0.9999549822228264
+c54a8ae7526e354d6de996659f2e933c	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Caliciales; f__Physciaceae; g__Physcia; s__tenella	0.8245154475443055
+7d8fac7390324565ca42b376f03fbc6a	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Erysiphaceae; g__Blumeria; s__dactylidis	0.9828378069143522
+0671ed5b14c5134b9f67dd974da1dfa2	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Erysiphaceae; g__Blumeria; s__dactylidis	0.9623504196047267
+25cb07d34c1e517aad233f06fe8c3d91	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Erysiphaceae; g__Erysiphe	0.9668247952940008
+c762c9f6753b9ef2fdf05843321ee10a	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales	0.9740524663959258
+08db51853a91f0859b3ca1c03f303e50	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Tricholomataceae; g__Tricholomataceae; s__sp.	0.7281539960172916
+3da04f34774b4392edc0ca76a6044027	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Phyllotopsidaceae; g__Pleurocybella	0.9999999989163901
+a0d59eae5cce350b97b8745a421525f9	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Pterulaceae; g__Pterulicium; s__gracile	0.999715668690456
+9ef41fbda327258f8fea9417bacc6a19	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Phyllotopsidaceae; g__Macrotyphula; s__fistulosa	0.8725699512199487
+630c3476565be624e339a9b6f0aebdf5	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Atheliales; f__Atheliaceae; g__Tylospora	0.9999999997568856
+32c8cbae8b0ffb2252d85fa79147e165	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Didymosphaeriaceae; g__Paraphaeosphaeria	0.9900762053935784
+97c9e279141802618ff395167e8e08b8	k__Fungi	0.9999999999999944
+cc98fc7095b6d9a7c321e3f2d57ceb9b	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Phaeosphaeriaceae; g__Paraloratospora; s__gahniae	0.9998230090757293
+f033465ae1df5e78b2c5510b134aaabb	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Phaeosphaeriaceae	0.7550872505211378
+0fdadfa233be97ad0938b95ff53d05a1	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Phaeosphaeriaceae; g__Loratospora	0.8410048003793718
+9593729dc03461ff4971b09b084f5cc9	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Didymellaceae; g__Neoascochyta	0.7593995665098645
+2da6abf5b10265bcab5b28538167add0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Didymellaceae	0.9278831807045103
+293e872fb2f2020d58944918b3f7affc	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Didymellaceae	0.9755409167369686
+3b899c597a26686505c64d6fd1fc574e	k__Fungi	0.9999999999999949
+2eacc44994ad27abeb2459889c499e14	k__Fungi; p__Ascomycota; c__Ascomycota; o__Ascomycota; f__Ascomycota; g__ascomycete	0.8336644746863301
+f1eba561d4db1cb099047de6778d8e25	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Pleosporineae; g__Pleosporineae; s__sp.	0.9252600026567366
+71cf7ed15468872e5da229cca9bc9270	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales	0.9011015822390178
+16fe1e048c61bffc74d305cee360a712	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales	0.9230164471390345
+48e4bb75c17fd6eba1326f7c1584eaf3	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Phaeosphaeriaceae; g__Nodulosphaeria	0.999656686616354
+1e3e508b9ce69196c21e176f3b30df0f	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Sporormiaceae; g__Preussia; s__minima	0.7147867839816666
+cb364e56b44e71a7ad95463037c8caa0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Sporormiaceae; g__Preussia; s__intermedia	0.7774143814594463
+459dfe920feeb33239edf83254e1af00	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Pleosporales; g__Pleosporales; s__sp. 17 KB-2015	0.9330570156431783
+fa0afcf9468e84ffe613eca48ac945ac	k__Fungi; p__Ascomycota	0.9173432335491085
+2d1cbe00075934c0c33b1121e15d4c8c	k__Fungi; p__Mucoromycota; c__Umbelopsidomycetes; o__Umbelopsidales; f__Umbelopsidaceae; g__Umbelopsis	0.9654725829765862
+2b90823d8189b05c2414519b658e8d2b	k__Fungi; p__Mucoromycota; c__Umbelopsidomycetes; o__Umbelopsidales; f__Umbelopsidaceae; g__Umbelopsis	0.97138427534394
+d19a8a9e278942eb407534c93d8f210e	k__Fungi; p__Mucoromycota; c__Umbelopsidomycetes; o__Umbelopsidales; f__Umbelopsidaceae; g__Umbelopsis	0.9822043823605549
+cdeb01a73cd6ef8ee2cdffb6acc12539	k__Fungi; p__Mortierellomycota; c__Mortierellomycetes; o__Mortierellales; f__Mortierellaceae; g__Mortierella	0.8294528001260446
+886acb943ff70a531998023eb368b3fd	k__Fungi; p__Basidiomycota; c__Cystobasidiomycetes; o__Buckleyzymales; f__Buckleyzymaceae; g__Buckleyzyma; s__sp.	0.8444866141273433
+f2ebb9bd26b6bf41fb2846aed10174c3	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Russulales; f__Russulaceae; g__Lactarius	0.9999978550783045
+b67221735fd717f77c3e98a32ed490db	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Sporidiobolales; f__Sporidiobolaceae; g__Rhodotorula	0.9999936186022453
+281f8921d90d2d63f23a634028479132	k__Fungi	0.9999999999999887
+95d63039e0644f96d7292638b9b4c9f7	k__Fungi	0.9999999999999882
+51dab0554f7ca38b8bf3ef8b44d697d6	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Pleosporaceae; g__Paradendryphiella	0.9971064436872995
+3d6d4b538408f6c8d2ef5548fd2cff4d	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Flavopunctelia; s__sp.	0.9529523607954207
+aac624741016069ff0f25adef60a2046	k__Fungi; p__Ascomycota	0.7022597424098911
+a74aba0f84893ea2016ea63f834ebe2a	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Flavopunctelia; s__sp.	0.7391888020488863
+594b56ba81eac50d2270a57409765c4c	k__Fungi; p__Ascomycota	0.7906319668075106
+db9f5577c6bd2966f75cc22d3f81c10e	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Flavopunctelia; s__sp.	0.731107277681525
+6766112f55a969cfcf9cf5b33b551226	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Flavopunctelia; s__sp.	0.9999881184777882
+fbe0dd0a014d888529f265fb4a7e2540	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Flavopunctelia; s__sp.	0.9999999954343934
+14601c5253bf5d3d2ae66cba59eb88f1	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Flavopunctelia; s__sp.	0.9999999999752447
+a5b88239de3198a0935ec9bd3c332f0d	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Flavopunctelia; s__sp.	0.9999999999532179
+97c823d4665460e6c15a98d18a65076c	k__Fungi; p__Ascomycota	0.730761130863975
+c48504bb9c37239e33ff500be38ea6c9	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Microbotryomycetes; f__Microbotryomycetes; g__Curvibasidium	0.9968882819548128
+a4dd7ca2bb2f24a3b432b67a796abc41	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Boletales; f__Boletaceae; g__Leccinum; s__rotundifoliae	0.9846006639416893
+47055760307ffab858482839d1b9b778	k__Fungi	1.0000000000000115
+fb8f5ca7a643649c98c50587a6bd6791	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Cantharellales; f__Hydnaceae; g__Sistotrema	0.9999708113639708
+d1e53d645240bd2ea7f1011160613fff	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Cantharellales; f__Hydnaceae; g__Sistotrema; s__sp.	0.9848092330163096
+0838e9364cba8686281c4c6d61d03b7e	k__Fungi; p__Basidiomycota; c__Pucciniomycetes; o__Pucciniales; f__Pucciniastraceae; g__Melampsoridium; s__betulinum	0.9975898419550011
+1928514c224abb1227ff34e0738d686b	k__Fungi; p__Basidiomycota; c__Pucciniomycetes; o__Pucciniales; f__Pucciniastraceae; g__Melampsoridium; s__betulinum	0.9992809069993672
+a5eafba21849ed42c524262464a0005f	k__Fungi; p__Basidiomycota; c__Pucciniomycetes; o__Pucciniales; f__Pucciniaceae; g__Puccinia; s__coronata f. sp. graminicola	0.9772623805729984
+91230e0339595398c227972604693a9d	k__Fungi; p__Basidiomycota; c__Pucciniomycetes; o__Pucciniales; f__Pucciniaceae; g__Puccinia; s__coronata f. sp. graminicola	0.95359719888882
+42c0dd7554c06c218105a12323d29515	k__Fungi; p__Basidiomycota; c__Pucciniomycetes; o__Pucciniales; f__Melampsoraceae; g__Melampsora	0.9999992749991962
+a7ad6645c3faed874073f096efd6d638	k__Fungi; p__Basidiomycota; c__Pucciniomycetes; o__Pucciniales; f__Melampsoraceae; g__Melampsora	0.9999987277137061
+95956ac05509edeecbe818f233efc81b	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Diatrypaceae; g__Fusiformiascus; s__favacea	0.9783894721126997
+a242bba309449bebfcf53ae185bbc207	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Stereocaulaceae; g__Lepraria; s__incana	0.8194840048085636
+dfe0d0b5fd1b76657b4101bd3faf943e	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Physalacriaceae; g__Armillaria	0.9999999990619002
+5b32611bef85859683d86483f63a99b4	k__Fungi; p__Ascomycota	0.9262859231513465
+cee036c1e15ec041402aa3730d5500e8	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Pseudevernia; s__furfuracea	0.774971206485085
+b31ace8f136917a2c7e527794bc1723b	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales	0.8727477436144124
+752d8bda61c193bff21356b13fd44f07	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Usnea	0.9999818718149864
+72ea4a65ec6908d06702ce2703696a35	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Dothideales; f__Dothideaceae; g__Coniozyma; s__sp.	0.8578410151846165
+fff4fa29177043e8653c644bd45b5238	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Botryosphaeriales; f__Botryosphaeriales; g__Botryosphaeriales; s__sp.	0.9913411984516748
+87e00789d9db5d7e7c1a8050d40bc1bd	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales	0.9761108142386283
+b3610dfc94560380ca12d237528340a6	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Sclerotiniaceae; g__Botrytis	0.83126031286782
+d4546e79c8b46de8f9c00a58c5292545	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Thelebolales; f__Pseudeurotiaceae; g__Pseudeurotiaceae; s__sp.	0.7894974586208109
+f8984f39333c6169434702591725e45a	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Phaeomoniellales; f__Phaeomoniellaceae	0.7331398964383539
+092b4d37470cdaced000492d80061a80	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Botryosphaeriales; f__Botryosphaeriales; g__Botryosphaeriales	0.9746219303270789
+bfbf07620b74af85193c296e9b4d6be0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales	0.9374301606783952
+6d39922ea8d2853e9e5154742069f2bb	k__Fungi; p__Basidiomycota	0.9403690461178851
+ca4757f5e23c088b9da62c3bc4a9a596	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Polyporales; f__Polyporales; g__Neohypochnicium; s__subrigescens	0.9999658367822449
+2cb8063d87523b463df6aca02648dd7e	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Strophariaceae; g__Protostropharia	0.844851609776993
+482cdc1d479efa55fee74a17cd6b83fc	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Cortinariaceae; g__Cortinarius; s__nigrocuspidatus	0.9589918458285454
+d4b68e297f5debe3787ed748ff9bc859	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Hymenochaetales; f__Schizoporaceae; g__Xylodon; s__sp.	0.8142619479028392
+bb455c0dfa6164d954430cbdbda146cf	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Caliciales; f__Physciaceae; g__Physcia	0.9999229167516691
+b62f6c2e520b16caf3d8a0b005c3d00f	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Erysiphaceae; g__Blumeria; s__dactylidis	0.9781377714201583
+3f3caf36b2195fc66fe00d5ac09e09c2	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Phyllotopsidaceae; g__Pleurocybella	0.9999999965596548
+dae784f15d829dc6fd11db30b40e52a0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Atheliales; f__Atheliaceae; g__Amphinema	0.8133332541697413
+ebb4092e8834235a8d2fcd5243681b7a	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Didymosphaeriaceae; g__Paraphaeosphaeria	0.9955409213903976
+6ff2a47ffa76e6528e5559b3a267d63f	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Phaeosphaeriaceae; g__Paraloratospora; s__gahniae	0.9991285092075182
+18871da24c0d715efcc9ac33cb6fef44	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Didymellaceae; g__Phoma; s__sp. ADL-2593-04	0.7202831352523977
+d2f525c8f0b68ce6bdfd2f96e2a6f1ed	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Didymellaceae	0.9701460389197563
+4fdf4841a479537d661f74a27e7d6b91	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Pleosporineae; g__Pleosporineae; s__sp.	0.9055419787383856
+148c5f1e03fb6b5de55b1908da9b1f79	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales	0.8998217943169755
+025b7d3b7230f0df27a3f80899a3720c	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Sporormiaceae; g__Preussia	0.727984737449356
+0262bcb983633510d5e4911468589ae1	k__Fungi; p__Ascomycota	0.9121521281773226
+4f8bab29fddfc3880e1f787918172ac4	k__Fungi; p__Basidiomycota; c__Pucciniomycotina; o__Pucciniomycotina; f__Pucciniomycotina; g__urediniomycete; s__sp. BC45	0.7280677252421479
+16dbeb20900a61f8578a102110a966bd	k__Fungi; p__Basidiomycota	0.9787300670273722
+5b292f65a02da00900483ac920fa2949	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Sporidiobolales; f__Sporidiobolaceae; g__Rhodosporidiobolus; s__colostri	0.9363483180391213
+ab08c135d95bc8c66e05b41af561fe2e	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Cantharellales; f__Hydnaceae; g__Sistotrema	0.9999671768701043
+00aeeda3bb7c3260b50fea91f71fa4bf	k__Fungi; p__Basidiomycota; c__Exobasidiomycetes; o__Microstromatales; f__Microstromatales; g__Pseudomicrostroma; s__sp.	0.716872792482331
+12132745e3451027466edc2db4fa0c20	k__Fungi; p__Basidiomycota; c__Pucciniomycetes; o__Pucciniales; f__Pucciniastraceae; g__Melampsoridium; s__betulinum	0.9980303690227617
+7b40e57bd61b7b9ad9dc84a390ab0cba	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Physalacriaceae; g__Cylindrobasidium; s__evolvens	0.8706447478535121
+467dcba781cdfffae02c10668160f449	k__Fungi	1.0000000000000053
+b6ca059860d1d73cd7e50b402a719d42	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Diatrypaceae; g__Fusiformiascus; s__favacea	0.9542263330268049
+77a627f88388188942680b054a7a5667	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Ramalinaceae; g__Bacidina; s__sp.	0.78603253390978
+6a36527f36380049f956335ba0535f28	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Pseudevernia; s__furfuracea	0.75032965880266
+35123b8f59864d5a0281c6e84d6ae1d0	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Usnea	0.9998651066508615
+8019625cc379ec6815c61aabc49cbf0e	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Ramalinaceae; g__Ramalina; s__sp.	0.7280629636366373
+9cec9bb082d33c802ac00978da0f47a9	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecideales; f__Lecideaceae; g__Lecidea; s__huxariensis	0.9997577986693049
+11d96c446e5d0a52881b7b212db6af71	k__Fungi; p__Ascomycota	0.9618880955296896
+cd03a2d32ff82075e11a571626761b5a	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Dothideales; f__Dothideales; g__Dothideales; s__sp.	0.9224189446096202
+5a365893f68cdde3824b1ed11bd3e464	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Cladoniaceae; g__Cladonia	0.9999994414436781
+f2e2c0de2c27254410e33fa45f19025c	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales	0.7349871370281089
+e1c9788ea949c8c98fa12c622d2e7f38	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Mycosphaerellales; f__Mycosphaerellaceae; g__Sphaerulina	0.8178144392827286
+6d4d55146a8d00e1a63c7b2be7f9d25f	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Leotiales; f__Tympanidaceae; g__Claussenomyces; s__atrovirens	0.997866650894595
+110ad71165e45755dc19a3e59b124628	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Thelebolales	0.7710059220576948
+1adf13725a5d5cf30b91813a6d350a1c	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiales; g__Helotiales; s__sp. 220 OA-2013	0.9821650684373753
+8899655fbf67d227f7bb5a887d1e8b2f	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Ostropales; f__Spirographaceae; g__Spirographa; s__skorinae	0.9896295240291144
+19adc97adfa47974cc55fb6b54ebdc2f	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Russulales; f__Russulales; g__Stereaceae; s__sp. NK268	0.9999617329395133
+977a64905ec8b7f1bc2093cfc10c244b	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Russulales; f__Russulales; g__Stereaceae; s__sp. NK268	0.9999810490618046
+4849d06e5015ef33426b465ff1195a7c	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Russulales; f__Bondarzewiaceae; g__Heterobasidion; s__sp.	0.7691776185403326
+6d36bc86cefd19c1555fcc5eaa434e79	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Cryptococcaceae; g__Cryptococcus; s__sp. C42	0.9971485585023556
+ca241be552241fa5340b1d133ca79144	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Hymenochaetales; f__Schizoporaceae; g__Hyphodontia; s__aff. alutaria UC2023078	0.7582953067787899
+bd0b57d24869a4338c2b0e504928d52f	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Filobasidiales; f__Filobasidiaceae; g__Filobasidium; s__wieringae	0.9972429214200195
+86380748d199b86d844fa8b8934c069c	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Entolomataceae; g__Entoloma; s__conferendum	0.9910615412660903
+14e16ec060cb1d6bc32bd5492e9b2372	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Entolomataceae; g__Entoloma; s__conferendum	0.9895451210630314
+38d7e370d7668598db4dfb9b6275e61e	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Entolomataceae; g__Entoloma; s__cuneatum	0.9616335375527244
+ab8bfbfec53d427dc92f735d9c3613ce	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Thelephorales; f__Thelephoraceae; g__Pseudotomentella; s__tristis	0.777927832738108
+8f32453b45b26c08dde2585ec1a3c18a	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Sistotremastrales; f__Sistotremastraceae; g__Sertulicium; s__sp. T81091-1	0.7929974917129231
+d5ed454b5ef4685b6bcdefd7e4770145	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Polyporales; f__Polyporales; g__Neohypochnicium; s__subrigescens	0.9999585945690526
+0acf0fcca200742058eff5eedddbc76a	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Psathyrellaceae; g__Coprinellus	0.8533707978725217
+ae49024285817e5247b56eb7550a7e79	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Tubariaceae	0.9999995816235833
+960d468c47f26764a81b5afcd9080251	k__Fungi; p__Basidiomycota; c__Exobasidiomycetes; o__Exobasidiales; f__Exobasidiaceae; g__Exobasidium; s__bisporum	0.9999987483193014
+8056f0e4ac10a2ccef6a245ee15fad54	k__Fungi; p__Basidiomycota; c__Exobasidiomycetes; o__Exobasidiales; f__Exobasidiaceae; g__Exobasidium; s__ledi	0.9999682225238503
+a231e95b44cd41d50597e0bcc445d340	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Cantharellales; f__Hydnaceae; g__Hydnum; s__sp. LM1961	0.9547692614861063
+0f17793b542890d7f728aa57d1c22503	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Mycenaceae; g__Mycena; s__mucoroides	0.9999983087122735
+1f4c6253b164bc48de6dbbf9cb221d05	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Crepidotaceae; g__Crepidotus	0.9999999663337291
+e85d07e90913e10d0573b16580cc11a5	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Phyllotopsidaceae; g__Pleurocybella	0.9999999976134095
+0feb8d122fee1dee80c7b60655548d47	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Pterulaceae; g__Merulicium; s__fusisporum	0.9999998750954056
+d2e3da604ef6b3ed2fc05beee5ee494b	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Peltigerales; f__Peltigeraceae; g__Peltigera; s__membranacea	0.9999999919319578
+09c849cb34bd273c3b83e3ac2d1499dc	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Didymosphaeriaceae; g__Paraphaeosphaeria	0.9925363931093295
+e0ac00a5d4220f37dab1373396a3798e	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Phaeosphaeriaceae; g__Paraloratospora; s__gahniae	0.9998199404060922
+4cba73371b3b6f4d57ebab10038d5221	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Phaeosphaeriaceae; g__Loratospora	0.8888922862360814
+a74c0c4df79bbcb34a890ada9a8d51c2	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Phaeosphaeriaceae; g__Loratospora	0.837849535554305
+8cdfdbd5096a04430676ceb3aa9d4079	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Phaeosphaeriaceae; g__Phaeosphaeria; s__juncina	0.9977811730615295
+02e296a0bff4f9b0e8f619507f84fc3f	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Pleosporineae; g__Pleosporineae; s__sp.	0.9023787248666807
+233dbd162bc75dafd1348a9e45e88005	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales	0.8656546941203463
+af703ba7a47decc93a4f7858a8e8613f	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Lecanoraceae; g__Scoliciosporum; s__fabisporum	0.9999997731922834
+070716876207343c38eb7807ec661158	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Amphisphaeriales; f__Sporocadaceae; g__Monochaetia	0.9838849916525676
+42f86330f4309db90673e5a7d95c492b	k__Fungi; p__Ascomycota; c__Dothideomycetes	0.7561817201628882
+bc5ca1901dac3218f6e1b32c887ddca7	k__Fungi; p__Basidiomycota; c__Cystobasidiomycetes; o__Buckleyzymales; f__Buckleyzymaceae; g__Buckleyzyma; s__sp.	0.850122560088256
+79ec0d68f1665ccd9fcbc2410312f0be	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Pleosporaceae; g__Paradendryphiella	0.9936567755383476
+74c813700cdf68face86a777b3c08568	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Flavopunctelia; s__sp.	0.999999997968331
+781abce58ca00ed8785a4c04d2de944b	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Flavopunctelia; s__sp.	0.9866100539801388
+2062af292662dec972bc545b497504a3	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Hydnangiaceae; g__Laccaria	0.9999973220189597
+136b24a9105e791c877e002987386f6a	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Sporidiobolales; f__Sporidiobolaceae; g__Rhodosporidiobolus; s__colostri	0.8743365709144901
+3b787b7ce24d92465c4ce439decd95fa	k__Fungi; p__Basidiomycota; c__Exobasidiomycetes; o__Microstromatales; f__Microstromatales; g__Pseudomicrostroma; s__phylloplanum	0.8092916987830427
+91020a4c2f6495b0b4f8687a1aae8638	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Cystofilobasidiales; f__Cystofilobasidiaceae; g__Cystofilobasidium; s__capitatum	0.8992751494168576
+eb3cfe1b86fd985f7a2c740075611499	k__Fungi; p__Basidiomycota; c__Pucciniomycetes; o__Pucciniales; f__Coleosporiaceae; g__Thekopsora	0.7579540867744595
+18e151a2f970bcfc7b5fb6828237e6d0	k__Fungi; p__Basidiomycota; c__Pucciniomycetes; o__Pucciniales; f__Pucciniastraceae; g__Melampsoridium; s__betulinum	0.997035609775845
+d77beafb09de9d3bc3259d0df781b669	k__Fungi; p__Basidiomycota; c__Pucciniomycetes; o__Pucciniales	0.9999999999998412
+8978a28a84969b32ecabd9ba0f1d650d	k__Fungi; p__Basidiomycota; c__Pucciniomycetes; o__Pucciniales; f__Pucciniaceae; g__Puccinia; s__poae-nemoralis	0.9920284594981277
+30ea661a7e9afddf042f86a5299e1b3e	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Cyathicula	0.8452175713821162
+28824b5d4cd2d61d5f35a10a1c9eb9d4	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Pseudevernia; s__furfuracea	0.7105583115508124
+f8b821b99fe91fdc283b74c25a9f7227	k__Fungi; p__Ascomycota; c__Taphrinomycetes; o__Taphrinales; f__Taphrinaceae; g__Taphrina; s__nana	0.9123557118776013
+b1d77a078ea0b090dcb26a35666d677d	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Didymellaceae	0.9707908610847464
+7c8e508b44eb6ea02312cb5805fcc174	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Pleosporaceae; g__Paradendryphiella	0.9943150476551302
+d53a6d70f2060259925b9b1d05fd49d2	k__Fungi	1.0000000000000049
+83f8b37841e832dc033e0f10d514800b	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Flavopunctelia; s__sp.	0.9853445446144279
+00c6f4c108a5eab9e97b5446c210726d	k__Fungi; p__Basidiomycota; c__Pucciniomycetes; o__Pucciniales; f__Pucciniastraceae; g__Melampsoridium; s__betulinum	0.9968146108302661
+13b0fcae14a1a3564d22992f07a073c1	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Hymenochaetales; f__Hymenochaetales; g__Resinicium; s__bicolor	0.9606903972037201
+45eec4a7538dc605c7da78b0971c763d	k__Fungi	0.9999999999999958
+40e54b61110883ed318d8500c063be6d	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Leotiomycetes; f__Myxotrichaceae	0.9395971338685989
+228fea7dd6e602fd22dde7b61156e735	k__Fungi; p__Basidiomycota; c__Microbotryomycetes; o__Sporidiobolales; f__Sporidiobolaceae; g__Sporobolomyces; s__roseus	0.8178851954038833
+da5e998d004014be49424d7532cabb88	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Lachnaceae; g__Incrucipulum; s__ciliare	0.9985730977221838
+94732e0b9ccb03260f67fdc084e92300	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Russulales; f__Bondarzewiaceae; g__Heterobasidion; s__sp.	0.7423015446281885
+e221e41df2b01ceab6f9b25d56064fdf	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Polyporales; f__Meripilaceae; g__Meripilus; s__vitreosanguineus	0.9990210551113985
+75c20be68582371c11ac2198f43f304c	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Lachnaceae; g__Incrucipulum; s__ciliare	0.9995760694940549
+5165d1dc4afb7636e14e5da8c413735f	k__Fungi; p__Ascomycota	0.9095412720789052
+caf28abc8af29f4e26c0039e02b9884e	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Phaeotremellaceae	0.9983539605170334
+ad83a82aaabfc00b7bf3d12dd0d8629d	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Typhulaceae; g__Typhula; s__sp. 'SE101'	0.8447381694312501
+3c34b42e8d75299c52517ee29f833dc8	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Phyllotopsidaceae; g__Macrotyphula; s__fistulosa	0.8759841231606248
+29284bd7d672fe5b009b405b8004c555	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Cantharellales; f__Hydnaceae; g__Sistotrema	0.9999697325288246
+ca6d9d1f09596873b1555aa303af672f	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecideales; f__Lecideaceae; g__Porpidia; s__tuberculosa	0.9708522803203292
+4e0d2b79415313eedd2c115f2bf58fda	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Mycenaceae; g__Resinomycena; s__saccharifera	0.9966759486489205
+60fe180f7436bdedd29ac50de5730f4e	k__Fungi; p__Basidiomycota; c__Exobasidiomycetes; o__Microstromatales; f__Microstromataceae; g__Microstroma; s__sp.	0.9390349171382602
+f84f4d48b994206e17682254f9b51cef	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Tubariaceae	0.9999995787047034
+00169e6b081ea4e7018d3cf5aa1e5a9d	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Erysiphaceae; g__Blumeria; s__dactylidis	0.9616165156278978
+598a0307b8926f79a09cf27b2754f03f	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiales; g__Helotiales	0.9233956312687127
+1053842826565c15ccfbe27eff9a2a05	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Tubariaceae	0.9999986905645174
+a27658c90f8808397dc71b1de5882fa9	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Flavopunctelia; s__sp.	0.9818121539953191
+54211c4507b458bd9f16402db21bab99	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Bulleribasidiaceae; g__Dioszegia; s__rishiriensis	0.9998662028124247
+ab4a968ef2ab45a70c8c09b01165e77a	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Tubariaceae	0.9999993077181802
+65d7d7d0d4a1d839ffe714bfdbddb45c	k__Fungi; p__Ascomycota	0.9312266657082197
+2285c7df0b96e7bbcfffb1e4cda482a7	k__Fungi	1.000000000000012
+674a86c60e3f496671091b69894dcaff	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Hypotrachyna; s__afrorevoluta	0.9897127429241331
+4b4b4dc648a339c28f681fbe0217b79f	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Amphisphaeriales; f__Hyponectriaceae; g__Physalospora; s__scirpi	0.9888398625309273
